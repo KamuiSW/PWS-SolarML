@@ -1,6 +1,6 @@
 # Solar Panel Cleaning Robot
 
-A Raspberry Pi 5–powered robot designed to autonomously clean solar panels using a combination of mapping, sensors, and machine learning.  
+A Raspberry Pi 5 powered robot designed to autonomously clean solar panels using a combination of mapping, sensors, and machine learning.  
 It efficiently maps panel edges, plans an optimal cleaning path, detects uncleaned spots with a camera, and revisits them, all while minimising energy use.
 
 ---
