@@ -4,7 +4,7 @@ you need to do this to install any packages btw
 (.\.venv\Scripts\Activate.ps1)
 
 A Raspberry Pi 5 powered robot designed to autonomously clean solar panels using a combination of mapping, sensors, and machine learning.  
-It efficiently maps panel edges, plans an optimal cleaning path, detects uncleaned spots with a camera, and revisits them, all while minimising energy use.
+It maps panel edges, plans a cleaning path, detects uncleaned spots with a camera, and revisits them, all while minimising energy use.
 
 ---
 
@@ -12,7 +12,7 @@ It efficiently maps panel edges, plans an optimal cleaning path, detects unclean
 
 The robot operates directly on solar panels.  
 Its main goals are:
-- Clean each panel surface fully and safely (no falling off edges).  
+- Clean each panel surface fully (no falling off edges).  
 - Detect and re-clean dirty or stained areas using a rear-facing camera.  
 - Conserve as much power as possible for long, unattended operation.
 
